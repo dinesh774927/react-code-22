@@ -1,0 +1,10 @@
+/* Write your CSS code here */
+.img {
+  height: 200px;
+}
+
+.name {
+  font-size: 50px;
+  color: #551e53;
+  font-weight: 500;
+}

@@ -1,0 +1,33 @@
+/* Write your CSS code here */
+.header-container {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+.logo-container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.logo-name {
+  color: #12022f;
+  font-size: 25px;
+}
+.logo {
+  height: 50px;
+  margin-right: 10px;
+}
+.ul {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  padding: 0px;
+  list-style-type: none;
+}
+.link {
+  color: #12022f;
+  font-size: 25px;
+  font-weight: bold;
+  text-decoration: none;
+  margin-right: 20px;
+}
